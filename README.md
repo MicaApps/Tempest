@@ -44,3 +44,8 @@ Tempest AI helps you solve server operation and maintenance problems! You can us
 1. Supports sharing and collaboration, similar to graphite documents. Send the link to your friends to share the terminal
 2. Supports multi-window broadcast, that is, instructions entered in one tab can be broadcast to all tabs to configure a large number of servers at the same time
 3. Supports multiple vaults, sharing vaults to teams, revoking user permissions, etc.
+
+## Gallery
+![image](https://github.com/MicaApps/Tempest/assets/6630660/cbbcf6ec-c407-471b-b71d-24115f898bf4)
+![image](https://github.com/MicaApps/Tempest/assets/6630660/3d774ee9-4802-47a1-b654-d1fd25e0f4aa)
+
