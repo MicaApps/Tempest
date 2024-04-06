@@ -5,10 +5,12 @@
 </p>
 
 ## Download
-Download link: https://gotempest.app/download/
+Download link: https://gotempest.app/download
+Official website: https://gotempest.app/
 
 ## Overview
 A cross-platform, cloud-synchronized, privacy and security-first terminal.Supports Windows, macOS, Linux, iOS and Android
+
 
 ![image](https://github.com/MicaApps/Tempest/assets/6630660/0883d62d-11de-43ef-b43e-c8d217993b93)
 
