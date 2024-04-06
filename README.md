@@ -1,8 +1,9 @@
 <p align="center">
-    <img src="https://github.com/MicaApps/Photo/assets/6630660/cd55ed20-f684-4ac3-a643-e6097b106ef1" alter="Mail Icon" align="center"/>
+    <img src="https://github.com/MicaApps/Tempest/assets/6630660/4c8dafaa-42ac-447e-a07c-3ce5a9b0f2da" alter="Mail Icon" align="center"/>
     <h1 align="center">Tempest</h1>
     <p align="center">A cross-platform, cloud-synchronized, privacy and security-first terminal.</p>
 </p>
+
 
 ## Download
 Download link: https://gotempest.app/download
