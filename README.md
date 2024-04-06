@@ -4,11 +4,11 @@
     <p align="center">A cross-platform, cloud-synchronized, privacy and security-first terminal.</p>
 </p>
 
-
-Tempest (official website: gotempest.app) is a cross-platform, cloud-synchronized, privacy and security-first terminal. Send code at the end of this article
-
+## Download
 Download link: https://gotempest.app/download/
-Supports Windows, macOS, Linux, iOS and Android
+
+## Overview
+A cross-platform, cloud-synchronized, privacy and security-first terminal.Supports Windows, macOS, Linux, iOS and Android
 
 ![image](https://github.com/MicaApps/Tempest/assets/6630660/0883d62d-11de-43ef-b43e-c8d217993b93)
 
