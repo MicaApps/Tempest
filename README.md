@@ -40,7 +40,7 @@ Tempest AI helps you solve server operation and maintenance problems! You can us
 3. The encryption and decryption parts will be open sourced on GitHub for review
 4. Seamless synchronization across devices is very smooth, welcome to experience it~
 
-## Share and collaborate
+## Share and Collaborate
 1. Supports sharing and collaboration, similar to graphite documents. Send the link to your friends to share the terminal
 2. Supports multi-window broadcast, that is, instructions entered in one tab can be broadcast to all tabs to configure a large number of servers at the same time
 3. Supports multiple vaults, sharing vaults to teams, revoking user permissions, etc.
