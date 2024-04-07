@@ -8,10 +8,10 @@
 
 ## Download
 Download link: 
-- https://gotempest.app/download
-- https://github.com/MicaApps/Tempest/releases/tag/release
-- https://www.microsoft.com/store/productId/9PFV6RP97JB2?ocid=pdpshare
-- https://apps.apple.com/us/app/tempest-ssh-and-sftp-client/id6479175758
+- Office Website: https://gotempest.app/download
+- GitHub: https://github.com/MicaApps/Tempest/releases/tag/release
+- Microsoft Store: https://www.microsoft.com/store/productId/9PFV6RP97JB2?ocid=pdpshare
+- App Store: https://apps.apple.com/us/app/tempest-ssh-and-sftp-client/id6479175758
 
 Official website: https://gotempest.app/
 
