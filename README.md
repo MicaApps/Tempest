@@ -7,11 +7,15 @@
 
 
 ## Download
-Download link: https://gotempest.app/download
+Download link: 
+- https://gotempest.app/download
+- https://github.com/MicaApps/Tempest/releases/tag/release
+- https://www.microsoft.com/store/productId/9PFV6RP97JB2?ocid=pdpshare
+- https://apps.apple.com/us/app/tempest-ssh-and-sftp-client/id6479175758
 
 Official website: https://gotempest.app/
 
-https://github.com/MicaApps/Tempest/releases/tag/release
+
 
 ## Overview
 A cross-platform, cloud-synchronized, privacy and security-first terminal.Supports Windows, macOS, Linux, iOS and Android
