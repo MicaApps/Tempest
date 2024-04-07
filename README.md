@@ -11,8 +11,8 @@
 - Office Website: https://gotempest.app/download
 - GitHub: https://github.com/MicaApps/Tempest/releases/tag/release
 
-### Official
-website: https://gotempest.app/
+### Official Website:
+https://gotempest.app/
 
 
 
