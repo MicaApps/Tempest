@@ -11,6 +11,8 @@ Download link: https://gotempest.app/download
 
 Official website: https://gotempest.app/
 
+https://github.com/MicaApps/Tempest/releases/tag/release
+
 ## Overview
 A cross-platform, cloud-synchronized, privacy and security-first terminal.Supports Windows, macOS, Linux, iOS and Android
 
