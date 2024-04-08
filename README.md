@@ -15,10 +15,7 @@
 https://gotempest.app/
 
 
-
-## Overview
 A cross-platform, cloud-synchronized, privacy and security-first terminal.Supports Windows, macOS, Linux, iOS and Android
-
 
 ![image](https://github.com/MicaApps/Tempest/assets/6630660/0883d62d-11de-43ef-b43e-c8d217993b93)
 
@@ -26,29 +23,46 @@ A cross-platform, cloud-synchronized, privacy and security-first terminal.Suppor
 Tempest AI helps you solve server operation and maintenance problems! You can use it to help you diagnose TCP, write SQL, read logs, etc.
 ![image](https://github.com/MicaApps/Tempest/assets/6630660/ce471d85-8a91-45b2-b847-2d7f2a3e6ee4)
 
+## Overview
+
+Tempest is a cross-platform SSH client in development for Windows, Mac, Linux, Android, and iOS that uses End-to-End Encryption (E2EE) technology to encrypt data and support cross-platform cloud synchronization of data.
+
+This SSH client has a free version and a professional version, from now until April 25, 2024, all users involved in the test can get a free six-month subscription to the professional version, the free version of the functional limitations is also very small, compared with the professional version of the main does not support AI and support for 2 devices synchronization, the professional version supports unlimited devices synchronization.
+
+The Pro version supports unlimited device synchronization. There are a lot of features that we will introduce according to the following modules:
+
+
 ## SSH
-1. Supports SSH2, SFTP and Identity Manager
-2. Supports server private key verification from 1Password
+1. Support for SSH2 and Identity Manager
+2. Supports server private key authentication from 1Password.
 3. Server performance monitoring
+4. Support for fast SFTP file transfers
+5. Support for importing server from PuTTY, XShell or SSH profiles
+
 
 ## Kubernetes
-1. Manage Kubernetes Config
-2. Manage different clusters simultaneously in different tabs, Kubeconfig is isolated
-3. End-to-end encrypted sync across devices
+1. Support for managing Kubernetes Config
+2. Support for managing different clusters in different tabs at the same time, Kubeconfig is isolated.
+3. End-to-end encrypted synchronization across devices
 
-## Local Shell
-1. For Windows, additional support for MSYS, WSL (under development) and other environments
-2. Will support Serial serial port
 
-## Data Encryption and Cloud Sync
-1. Encryption and decryption are performed locally on the user, and the synchronized content is always encrypted (end-to-end encryption). Encrypted keys are only saved 2. locally on the user's computer, use KeyChain or Windows Credential Manager to protect data
-3. The encryption and decryption parts will be open sourced on GitHub for review
-4. Seamless synchronization across devices is very smooth, welcome to experience it~
+## Native Shell Aspects:
+1. Additional support for Windows environments such as MSYS, WSL, etc. (WSL in development)
+2. Serial serial ports will be supported
+
+
+## Data encryption and cloud synchronization:
+
+1. Encryption and decryption is performed locally, and synchronized content is always encrypted via E2EE.
+2. Encryption keys are stored only locally and protected using macOS KeyChain or Windows Credential Manager.
+3. Portions of the encryption and decryption code will be made available for review on GitHub.
+4. Seamless synchronization of all data across devices, including added hosts, profiles, keys, etc.
+
 
 ## Share and Collaborate
-1. Supports sharing and collaboration, similar to graphite documents. Send the link to your friends to share the terminal
-2. Supports multi-window broadcast, that is, instructions entered in one tab can be broadcast to all tabs to configure a large number of servers at the same time
-3. Supports multiple vaults, sharing vaults to teams, revoking user permissions, etc.
+1. Support for shared collaboration, send a link to a friend to share a terminal. Just like Google Docs
+2. Multi-window broadcast support, i.e. connect to multiple servers at the same time and send a command to all servers
+3. Supports multiple vaults, sharing vaults to teams, revoking user privileges, etc.
 
 ## Gallery
 ![image](https://github.com/MicaApps/Tempest/assets/6630660/cbbcf6ec-c407-471b-b71d-24115f898bf4)
